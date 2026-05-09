@@ -1,4 +1,5 @@
-**Project Title**		Automated Data Ingestion and Pipeline System for AI Model Training   
+## **Automated Data Ingestion and Pipeline System for AI Model Training** 
+
 **Member(s)**		Ms. Kwinyarut Poungsangthanakul, MR. Parit Leelasetawong  
 **Project Advisor**	Dr. Aye Hninn Khine  
 **Program**		Bachelor of Engineering  
@@ -7,7 +8,7 @@
 **Faculty** 		Engineering  
 **Academic Year** 	2025
 
-## **ABSTRACT** {#abstract}
+## **ABSTRACT** 
 
 The growing demand for AI at Siam.AI Cloud requires large, high-quality datasets that can be processed reliably across many different formats. However, current data preparation workflows are fragmented, largely manual and error-prone especially for Thai-language data. This project addresses these challenges by building an end-to-end, open-source, on-premise pipeline that takes raw data in various formats and converts it into clean, standardized outputs ready for training large language models.
 
