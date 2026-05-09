@@ -1,0 +1,37 @@
+\addvspace {0em}
+\addvspace {0em}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces \xpg@aux {}{english}\ignorespaces Automated Data Ingestion and Pipeline System Architecture}}{11}{figure.2.1}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces \xpg@aux {}{english}\ignorespaces NVIDIA B200 GPUs}}{11}{figure.2.2}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces \xpg@aux {}{english}\ignorespaces MinIO Object Storage (Data Lake Interface)}}{12}{figure.2.3}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces \xpg@aux {}{english}\ignorespaces pgAdmin 4 Interface for PostgreSQL Data Warehouse}}{13}{figure.2.4}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces \xpg@aux {}{english}\ignorespaces Apache Airflow Interface for Data Pipeline Connection}}{13}{figure.2.5}%
+\addvspace {0em}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces \xpg@aux {}{english}\ignorespaces MinIO Interface}}{16}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces \xpg@aux {}{english}\ignorespaces Database schema for PostgreSQL}}{17}{figure.3.2}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces \xpg@aux {}{english}\ignorespaces Apache Airflow graph view DAGs}}{20}{figure.3.3}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces \xpg@aux {}{english}\ignorespaces Apache Airflow Build environment task detail}}{21}{figure.3.4}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces \xpg@aux {}{english}\ignorespaces Apache Airflow Sensor\_demo DAG detail}}{21}{figure.3.5}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces \xpg@aux {}{english}\ignorespaces Apache Airflow graph view of \texttt {pdf\_ocr\_pipeline}}}{22}{figure.3.6}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces \xpg@aux {}{english}\ignorespaces Apache Airflow \texttt {process\_pdf} task detail}}{23}{figure.3.7}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces \xpg@aux {}{english}\ignorespaces Apache Airflow \texttt {pdf\_ocr\_pipeline} DAG run detail}}{24}{figure.3.8}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces \xpg@aux {}{english}\ignorespaces Apache Airflow graph view of \texttt {audio\_asr\_pipeline}}}{25}{figure.3.9}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces \xpg@aux {}{english}\ignorespaces Apache Airflow \texttt {process\_audio\_file} task detail}}{26}{figure.3.10}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces \xpg@aux {}{english}\ignorespaces Apache Airflow \texttt {audio\_asr\_pipeline} DAG run detail}}{27}{figure.3.11}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces \xpg@aux {}{english}\ignorespaces Prometheus metric connector}}{28}{figure.3.12}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces \xpg@aux {}{english}\ignorespaces Grafana Dashboard}}{29}{figure.3.13}%
+\addvspace {0em}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces \xpg@aux {}{english}\ignorespaces Datalake Layer}}{30}{figure.4.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces \xpg@aux {}{english}\ignorespaces NECTEC Datasets in MinIO}}{30}{figure.4.2}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces \xpg@aux {}{english}\ignorespaces Main pipeline DAG}}{36}{figure.4.3}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces \xpg@aux {}{english}\ignorespaces Sentiment Processing Pipeline}}{37}{figure.4.4}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces \xpg@aux {}{english}\ignorespaces Database schema in PostgreSQL}}{38}{figure.4.5}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces \xpg@aux {}{english}\ignorespaces Dataset tables}}{39}{figure.4.6}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces \xpg@aux {}{english}\ignorespaces Document Table}}{39}{figure.4.7}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces \xpg@aux {}{english}\ignorespaces Document Table (detail view)}}{40}{figure.4.8}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces \xpg@aux {}{english}\ignorespaces Labels Table}}{40}{figure.4.9}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces \xpg@aux {}{english}\ignorespaces Preprocessing\_logs Table}}{41}{figure.4.10}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces \xpg@aux {}{english}\ignorespaces Airflow Dashboards}}{42}{figure.4.11}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces \xpg@aux {}{english}\ignorespaces MinIO Dashboards}}{42}{figure.4.12}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces \xpg@aux {}{english}\ignorespaces PostgreSQL Dashboards}}{43}{figure.4.13}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces \xpg@aux {}{english}\ignorespaces Data Quality Dashboards}}{43}{figure.4.14}%
+\addvspace {0em}

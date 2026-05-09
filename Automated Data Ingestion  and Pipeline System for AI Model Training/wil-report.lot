@@ -1,0 +1,31 @@
+\addvspace {0em}
+\contentsline {table}{\numberline {1.1}{\ignorespaces \xpg@aux {}{english}\ignorespaces Gantt chart --- First semester (August--December)}}{5}{table.1.1}%
+\contentsline {table}{\numberline {1.2}{\ignorespaces \xpg@aux {}{english}\ignorespaces Gantt chart --- Second semester (January--May)}}{6}{table.1.2}%
+\addvspace {0em}
+\contentsline {table}{\numberline {2.1}{\ignorespaces \xpg@aux {}{english}\ignorespaces Comparison of existing data platforms vs.\ the proposed Siam.AI pipeline}}{10}{table.2.1}%
+\addvspace {0em}
+\contentsline {table}{\numberline {3.1}{\ignorespaces \xpg@aux {}{english}\ignorespaces \texttt {datasets} table schema}}{18}{table.3.1}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces \xpg@aux {}{english}\ignorespaces \texttt {documents} table schema}}{18}{table.3.2}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces \xpg@aux {}{english}\ignorespaces \texttt {conversations} table schema}}{18}{table.3.3}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces \xpg@aux {}{english}\ignorespaces \texttt {messages} table schema}}{19}{table.3.4}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces \xpg@aux {}{english}\ignorespaces \texttt {labels} table schema}}{19}{table.3.5}%
+\contentsline {table}{\numberline {3.6}{\ignorespaces \xpg@aux {}{english}\ignorespaces \texttt {preprocessing\_logs} table schema}}{19}{table.3.6}%
+\contentsline {table}{\numberline {3.7}{\ignorespaces \xpg@aux {}{english}\ignorespaces \texttt {evaluation\_metrics} table schema}}{19}{table.3.7}%
+\addvspace {0em}
+\contentsline {table}{\numberline {4.1}{\ignorespaces \xpg@aux {}{english}\ignorespaces Overall unstructured pipeline output}}{31}{table.4.1}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces \xpg@aux {}{english}\ignorespaces PDF dataset overview}}{31}{table.4.2}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces \xpg@aux {}{english}\ignorespaces PDF document-level results}}{31}{table.4.3}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces \xpg@aux {}{english}\ignorespaces PDF page-level results}}{32}{table.4.4}%
+\contentsline {table}{\numberline {4.5}{\ignorespaces \xpg@aux {}{english}\ignorespaces PDF extraction method results}}{32}{table.4.5}%
+\contentsline {table}{\numberline {4.6}{\ignorespaces \xpg@aux {}{english}\ignorespaces Audio dataset overview}}{33}{table.4.6}%
+\contentsline {table}{\numberline {4.7}{\ignorespaces \xpg@aux {}{english}\ignorespaces Audio acceptance results}}{33}{table.4.7}%
+\contentsline {table}{\numberline {4.8}{\ignorespaces \xpg@aux {}{english}\ignorespaces Audio output volume}}{33}{table.4.8}%
+\contentsline {table}{\numberline {4.9}{\ignorespaces \xpg@aux {}{english}\ignorespaces CER distribution of accepted records}}{33}{table.4.9}%
+\contentsline {table}{\numberline {4.10}{\ignorespaces \xpg@aux {}{english}\ignorespaces CER distribution of filtered records}}{34}{table.4.10}%
+\contentsline {table}{\numberline {4.11}{\ignorespaces \xpg@aux {}{english}\ignorespaces Audio duration profile of accepted records}}{34}{table.4.11}%
+\contentsline {table}{\numberline {4.12}{\ignorespaces \xpg@aux {}{english}\ignorespaces Per-shard result consistency}}{34}{table.4.12}%
+\contentsline {table}{\numberline {4.13}{\ignorespaces \xpg@aux {}{english}\ignorespaces Audio format compatibility test results}}{34}{table.4.13}%
+\contentsline {table}{\numberline {4.14}{\ignorespaces \xpg@aux {}{english}\ignorespaces Format compatibility replication results}}{35}{table.4.14}%
+\contentsline {table}{\numberline {4.15}{\ignorespaces \xpg@aux {}{english}\ignorespaces Combined format-coverage summary}}{35}{table.4.15}%
+\addvspace {0em}
+\contentsline {table}{\numberline {5.1}{\ignorespaces \xpg@aux {}{english}\ignorespaces Project completion status}}{45}{table.5.1}%

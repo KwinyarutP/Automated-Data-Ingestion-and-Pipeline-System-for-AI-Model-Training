@@ -1,0 +1,101 @@
+\xpg@aux {}{english}
+\contentsline {chapterx}{\mdseries ABSTRACT}{ii}{Doc-Start}%
+\contentsline {chapterx}{\mdseries THAI ABSTRACT}{iii}{Doc-Start}%
+\contentsline {chapterx}{\mdseries ACKNOWLEDGMENTS}{iv}{Doc-Start}%
+\contentsline {chapterx}{\mdseries CONTENTS}{v}{Doc-Start}%
+\contentsline {chapterx}{\mdseries LIST OF TABLES}{viii}{Doc-Start}%
+\contentsline {chapterx}{\mdseries LIST OF FIGURES}{ix}{Doc-Start}%
+\contentsline {chapterx}{\mdseries LIST OF TECHNICAL VOCABULARY AND ABBREVATIONS}{x}{Doc-Start}%
+\contentsline {chapterxx}{\mdseries \bf CHAPTER}{1}{chapter.1}%
+\contentsline {chapter}{\normalsize \bf \MakeUppercase []{{\numberline {1.}\hskip -0.5em Introduction}}}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Project Introduction and Problem Statement}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Objectives}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Scope and Limitations}{2}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Data Types and Ingestion}{2}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Architecture and Tools}{2}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Deliverables}{2}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Phase 1: NECTEC Dataset Integration (Primary Focus)}{2}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}Phase 2: Audio Data Pipeline and System Enhancement}{3}{subsection.1.3.5}%
+\contentsline {subsection}{\numberline {1.3.6}Limitations on Data Types (Out of Scope)}{3}{subsection.1.3.6}%
+\contentsline {subsection}{\numberline {1.3.7}Limitations Related to Target System}{3}{subsection.1.3.7}%
+\contentsline {subsection}{\numberline {1.3.8}Out-of-Scope Items}{4}{subsection.1.3.8}%
+\contentsline {section}{\numberline {1.4}Project Plan}{4}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}August (Preparation and Research)}{4}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}September (Environment Setup and Baseline Ingestion)}{4}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}October (Automation and PDF Pipeline Development)}{4}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}November (Integration and Monitoring Setup)}{4}{subsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.4.5}December (Structured and Semi-Structured Expansion)}{4}{subsection.1.4.5}%
+\contentsline {subsection}{\numberline {1.4.6}January (Unstructured Data Expansion)}{5}{subsection.1.4.6}%
+\contentsline {subsection}{\numberline {1.4.7}February (Audio Data Pipeline Phase 1)}{5}{subsection.1.4.7}%
+\contentsline {subsection}{\numberline {1.4.8}March (Audio Data Pipeline Phase 2)}{5}{subsection.1.4.8}%
+\contentsline {subsection}{\numberline {1.4.9}April (Advanced Monitoring and System Refinement)}{5}{subsection.1.4.9}%
+\contentsline {subsection}{\numberline {1.4.10}May (Final Refinement and Documentation)}{5}{subsection.1.4.10}%
+\contentsline {section}{\numberline {1.5}Gantt Chart}{5}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Deliverables}{6}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}First Semester (August--December)}{6}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}Second Semester (January--May)}{6}{subsection.1.6.2}%
+\contentsline {chapter}{\normalsize \bf \MakeUppercase []{{\numberline {2.}\hskip -0.5em Background, Theory and Related Research}}}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Background}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Development Tools}{7}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}MinIO}{7}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Apache Airflow}{7}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}PyThaiNLP}{8}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}OCR Models (Tesseract, Typhoon, EasyOCR, PaddleOCR)}{8}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}PostgreSQL}{8}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}Monitoring Tools (Airflow UI, Prometheus, Grafana)}{8}{subsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.2.7}ASR Model (Typhoon Isan ASR Whisper)}{9}{subsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.2.8}Visual Studio Code}{9}{subsection.2.2.8}%
+\contentsline {subsection}{\numberline {2.2.9}FortiClient VPN}{9}{subsection.2.2.9}%
+\contentsline {subsection}{\numberline {2.2.10}WangchanBERTa-finetuned-sentiment}{9}{subsection.2.2.10}%
+\contentsline {section}{\numberline {2.3}Existing Solutions and Products in the Market}{9}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Cloud Provider Data Platforms (AWS, GCP, Azure)}{9}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Open-Source Data Ingestion and Integration Tools (NiFi, Airbyte)}{10}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Positioning of the Proposed System}{10}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}Preliminary Design Based on Backgrounds}{11}{section.2.4}%
+\contentsline {chapter}{\normalsize \bf \MakeUppercase []{{\numberline {3.}\hskip -0.5em Methodology and Designs}}}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{15}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Functional Requirements}{15}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Data Ingestion Requirements}{15}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Data Cleaning and Transformation Requirements}{15}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Output and Storage Requirements}{15}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Orchestration and Monitoring Requirements}{15}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}System Design}{16}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Architectural Overview}{16}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Containerized Service Architecture}{16}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Data Lake Structure}{16}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}MinIO Structure}{17}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Bucket Versioning and Replication}{17}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.5}Data Warehouse}{17}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Orchestration}{20}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}JSONL Pipeline}{20}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Unstructured PDF OCR Pipeline}{22}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}Unstructured Audio ASR Pipeline}{25}{subsection.3.6.3}%
+\contentsline {section}{\numberline {3.7}Monitoring}{28}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Metrics Collection with Prometheus}{28}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Grafana Dashboard}{29}{subsection.3.7.2}%
+\contentsline {chapter}{\normalsize \bf \MakeUppercase []{{\numberline {4.}\hskip -0.5em Results and Discussion}}}{30}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Data Lake}{30}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Unstructured Pipeline}{31}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}PDF Pipeline}{31}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Audio Pipeline}{33}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}JSONL Pipeline}{36}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Main Pipeline Execution}{36}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Sentiment Processing Pipeline}{37}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}Database}{38}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Datasets}{38}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Documents}{39}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Labels}{40}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}preprocessing\_logs}{41}{subsection.4.4.4}%
+\contentsline {section}{\numberline {4.5}Dashboard}{41}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Airflow Dashboards}{42}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}MinIO Dashboards}{42}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}PostgreSQL}{43}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.5.4}Data Quality}{43}{subsection.4.5.4}%
+\contentsline {chapter}{\normalsize \bf \MakeUppercase []{{\numberline {5.}\hskip -0.5em Conclusion}}}{44}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Conclusion}{44}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Problems, Obstacles and Solutions}{45}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Inconsistent Data Format Across Sources}{45}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Data Quality Issues in Thai Language Processing}{45}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}System Performance and Scalability Issues}{46}{subsection.5.2.3}%
+\contentsline {section}{\numberline {5.3}Future Work and Suggestions}{46}{section.5.3}%
+\contentsline {chapter}{\mdseries \bf \MakeUppercase []{References}}{47}{section.5.3}%
